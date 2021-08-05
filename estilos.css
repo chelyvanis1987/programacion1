@@ -1,0 +1,18 @@
+body {
+    background-color: rosybrown;
+
+}
+
+header 
+{
+    border: solid 2px sienna;
+    text-align: center;
+    background-image: url(./imagenes/logo\ unas.jpg);
+}
+
+.div-parrafo
+{
+    border: solid 2px red;
+    margin: 20px 60px 50px;
+    padding: 2em;
+}
