@@ -8,11 +8,33 @@ header
     border: solid 2px sienna;
     text-align: center;
     background-image: url(./imagenes/logo\ unas.jpg);
+    background-position: center;
+    background-repeat: round ;
+    background-size: contain;
+    
 }
 
 .div-parrafo
 {
     border: solid 2px red;
-    margin: 20px 60px 50px;
+    margin: 35px 60px 50px;
     padding: 2em;
+}
+p
+{
+    font-size: 20px;
+    font-family: cursive;
+}
+footer
+{
+    
+    border: 2px solid sienna;
+}
+.footer {
+    display: inline-flex;
+    text-align: right;
+}
+
+.medios {
+    text-align: right;
 }
