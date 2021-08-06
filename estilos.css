@@ -25,16 +25,38 @@ p
     font-size: 20px;
     font-family: cursive;
 }
+
+
+   
 footer
 {
-    
-    border: 2px solid sienna;
-}
-.footer {
-    display: inline-flex;
-    text-align: right;
+    border: black solid 2px;
+    padding: 5px;
 }
 
-.medios {
-    text-align: right;
+.footer 
+{
+    border: wheat solid 2px;  
+    display: inline-flex; 
+    width: 100%;
+    
 }
+.texto 
+{
+    border: red solid 2px;
+    width: 50%;
+    
+}
+.medios 
+{
+    display: inline-flex;
+    border: black solid 2px;
+    width: 50%;
+    list-style: none;
+    
+}
+li
+{
+    padding: 20px;
+}
+
