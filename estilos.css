@@ -26,6 +26,11 @@ p
     font-family: cursive;
 }
 
+img
+{
+    width: 100%;
+    padding: 5px;
+}
 
    
 footer
@@ -53,6 +58,7 @@ footer
     border: black solid 2px;
     width: 50%;
     list-style: none;
+    
     
 }
 li
